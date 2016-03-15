@@ -5,7 +5,7 @@ The game works in Firefox.
 
 https://cdn.rawgit.com/aAshkan/2Charmings/master/index.html
 
-![img1](Screenshot/1.PNG "Title Menu")
+![img1](Screenshot/1_1.PNG "Title Menu")
 -------------------------------------------------
 ![img2](Screenshot/2.PNG "Girl")
 -------------------------------------------------
