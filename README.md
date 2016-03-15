@@ -7,6 +7,6 @@ https://cdn.rawgit.com/aAshkan/2Charmings/master/index.html
 
 ![img1](Screenshot/1.PNG "Title Menu")
 -------------------------------------------------
-![img2](Screenshot/2.png "Girl")
+![img2](Screenshot/2.PNG "Girl")
 -------------------------------------------------
-![img3](Screenshot/3.PNG)
+![img3](Screenshot/3.PNG "Boy")
