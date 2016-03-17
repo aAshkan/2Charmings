@@ -3,7 +3,7 @@ A 2D action puzzle platformer with two protagonists who need to work together
 
 The game works in Firefox.
 
-https://cdn.rawgit.com/aAshkan/2Charmings/master/index.html
+play: https://cdn.rawgit.com/aAshkan/2Charmings/master/index.html
 
 ![img1](Screenshot/1.PNG "Title Menu")
 -------------------------------------------------
